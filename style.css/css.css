@@ -1,0 +1,338 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#first{
+    padding: 30px 4rem;
+    overflow: auto;
+}
+#first .left{
+    float: left;
+}
+#first .left p{
+    font-size: 1.4rem;
+    color: rgba(0, 0, 0, 0.9);
+}
+#first .right{
+    float: right;
+    text-align: center;
+}
+#first .right button{
+    margin-right: 5rem;
+    background-color: #0a58ca;
+    padding: 1px 40px; 
+    color: #fff;
+    border: 1px solid #0a58ca;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 30px;
+    width: 13% !important;
+    text-align: center;
+}
+#genarate{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    padding: 12rem 0;
+    background-position: center;
+    width: 100%;
+}
+#genarate h1{
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+}
+#genarate h2{
+    padding-top: 0.1rem;
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+}
+#genarate .down input{
+   width: 30%;
+   margin: 1rem .5rem 15px 28rem;
+   padding: 1.25rem;
+   border-radius: 8px;
+}
+
+.down button{
+    font-size: 1.25rem;
+    background-color: #0d6efd;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    margin-left: 5px;
+    padding: 20px 10px;
+    width: 6%;
+}
+#all{
+    padding: 3rem;
+
+    background-color: #f8f9fa;
+}
+#all .box{
+    padding-top: -10rem;
+}
+#all .box .icon{
+    font-size: 4rem;
+    margin-left: 33.3rem;
+    padding: 9rem;
+    color: #0a58ca;
+}
+#all .box .text h1{
+    margin-top: -9rem;
+    text-align: center;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+#all .box .text p{
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-top: .5rem;
+    text-align: center;
+    opacity: .5;
+}
+
+#all .box1{
+    float: left;
+}
+#all .box1 .icon{
+    font-size: 4rem;
+    margin-left: 3rem;
+    padding: 9rem;
+    color: #0a58ca;
+    margin-top: -18.4rem;
+}
+#all .box1 .text h1{
+    margin-top: -9rem;
+    padding-left: 7.5rem;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+#all .box1 .text p{
+    padding-left: 3.5rem;
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-top: .5rem;
+    text-align: center;
+    opacity: .5;
+}
+#all .box2{
+    float: right;
+}
+#all .box2 .icon{
+    font-size: 4rem;
+    margin-left: 3rem;
+    padding: 9rem;
+    color: #0a58ca;
+    margin-top: -18.4rem;
+}
+#all .box2 .text h1{
+    margin-top: -9rem;
+    padding-left: 7.5rem;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+#all .box2 .text p{
+    padding-left: 3.5rem;
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-top: .5rem;
+    text-align: center;
+    opacity: .5;
+}
+#third{
+    background-color: #F8F9FA;
+    padding: 8rem 4rem;
+    overflow: auto;
+    text-align: center;
+    width: 100%;
+}
+#third .left{
+    width: 33%;
+    float: left;
+}
+#third .left .top i{
+    font-size: 72px;
+    background-color: #F8F9FA;
+    color: #0D6EFD;
+    margin-bottom: 20px;
+}
+#third .bottom h3{
+    color: #212529;
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+}
+#third .bottom p{
+    color: #212529;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+}
+#third{
+    overflow: auto;
+    width: 100%;
+    padding: 80px 0;
+    height: 100%;
+}
+#third .first{
+    float: left;
+}
+#third .first .left{
+    width: 50%;
+    float: left;
+    background-color: #FFF;
+    padding: 8.4rem;
+    text-align: left;
+    height: 50%;
+}
+#third .first .left h2{
+    color: #212529;
+    font-size: 26px;
+    text-align: left;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#third .first .left p{
+    color: #212529;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    text-align: left;
+}
+#third .first .right{
+    width: 50%;
+    float: left;
+    height: auto;
+    height: 50%;
+}
+#third .first .right img{
+    width: 100%;
+}
+#tree .up{
+    padding: 10rem;
+}
+#tree .up h1{
+    text-align: center;
+}
+#tree .down img{
+    margin-top: -7rem;
+    margin-left: 40rem;
+    border-radius: 50%;
+    height: 100%;
+    width: 15%;
+}
+#tree .down h3{
+    text-align: center;
+    font-size: 1.25rem
+}
+#tree .down p{
+    margin-top: 5px;
+    text-align: center;
+    opacity: 1;
+}
+#tree .left img{float: left;
+    margin-top: -17rem;
+    margin-left: 10rem;
+    border-radius: 50%;
+    height: 100%;
+    width: 15%;
+}
+#tree .left h3{
+    margin-bottom: -1rem;
+    padding-top: -10rem;
+    margin-left: 14rem;
+    text-align: left;
+    font-size: 1.25rem
+}
+#tree .left p{
+    
+    margin-right: 60rem;
+    margin-top: 5px;
+    text-align: center;
+    opacity: 1;
+}
+
+#tree .right img{float: right;
+    margin-top: -17rem;
+    margin-right: 10rem;
+    border-radius: 50%;
+    height: 100%;
+    width: 15%;
+}
+#tree .right h3{
+    margin-bottom: -1rem;
+    padding-top: -10rem;
+    margin-left:75rem;
+    text-align: left;
+    font-size: 1.25rem
+}
+#tree .right p{
+    
+    margin-left: 60rem;
+    margin-top: 5px;
+    text-align: center;
+    opacity: 1;
+}
+#Ready{
+    padding: 5rem 0;
+    background-position: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+}
+#Ready .left{
+    font-size: 2rem;
+    margin-top: 1rem;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #fff;
+}
+#Ready .right input{
+    width: 30%;
+    margin: 1rem .5rem 15px 28rem;
+    padding: 1.25rem;
+    border-radius: 8px;
+ }
+ 
+ .right button{
+     font-size: 1.25rem;
+     background-color:#0d6efd;
+     color: #fff;
+     border-radius: 5px;
+     cursor: pointer;
+     font-weight: bold;
+     border: none;
+     margin-left: 5px;
+     padding: 20px 10px;
+     width: 6%;
+ }
+#son{
+    padding: 4rem;
+}
+#son .left a{
+    color: #0D6EFD;
+    word-spacing: 5px;
+}
+#son .left p{
+    margin-top: 5px;
+    color: #6c757d !important;
+}
+#son .right{
+    padding-right: 3rem;
+    font-size: 30px;
+    margin-top: -2.5rem;
+    float: right;
+    color: #0a58ca;
+}
+#son .right i{
+  padding-right: 1rem;
+}
+
+
